@@ -14,8 +14,9 @@
 │                                                                                                              │
 │                                                                                                              │
 │ - Contact -----------------------------------                                                                │
-│ Email: ...................... noah.dainty@protonmail.com                                                     │
-│ Discord: ................... odeyity                                                                         │
+│ Email: ...................... <a href="mailto:noah.dainty@protonmail.com">noah.dainty@protonmail.com</a>                                                     │
+│ Discord: .................... odeyity                                                                        │
+│ LinkedIn: ................... <a href="https://linkedin.com/in/noahdainty">noahdainty</a>                                                                     │
 │                                                                                                              │
 │                                                                                                              │
 │                                                                                                              │
