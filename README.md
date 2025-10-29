@@ -8,7 +8,7 @@
 │ . Browser: .................. Brave, Orion                                                                   │
 │ . IDE: ...................... Visual Studio Code, Visual Studio                                              │
 │ . Programming Languages: .... Python, HTML, CSS, JavaScript, C#                                              │
-│ . Languages: ................ English, Deutsch                                                               │
+│ . Languages: ................ English, German                                                                │
 │ . From: ..................... Manchester, United Kingdom                                                     │
 │                                                                                                              │
 │                                                                                                              │
