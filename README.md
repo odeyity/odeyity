@@ -14,10 +14,10 @@
 │                                                                                                              │
 │                                                                                                              │
 │ - Contact -----------------------------------                                                                │
-│ Email: ...................... <a href="mailto:noah.dainty@protonmail.com">noah.dainty@protonmail.com</a>                                                     │
-│ Discord: .................... odeyity                                                                        │
-│ LinkedIn: ................... <a href="https://linkedin.com/in/noahdainty">noahdainty</a>                                                                     │
-│ Twitter: .................... <a href="https://x.com/noahdai14">noahdai14</a>                                                                      │  
+│ . Email: ...................... <a href="mailto:noah.dainty@protonmail.com">noah.dainty@protonmail.com</a>                                                   │
+│ . Discord: .................... odeyity                                                                      │
+│ . LinkedIn: ................... <a href="https://linkedin.com/in/noahdainty">noahdainty</a>                                                                   │
+│ . Twitter: .................... <a href="https://x.com/noahdai14">noahdai14</a>                                                                    │  
 │                                                                                                              │
 │                                                                                                              │
 │                                                                                                              │
